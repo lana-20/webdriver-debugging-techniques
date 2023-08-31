@@ -1424,6 +1424,121 @@ By checking specific attributes, you can gather more information about an elemen
 
 These are just a few examples of attributes and properties that can help you determine if an element is interactable. Depending on the specific requirements and context of your application, you may need to consider additional attributes or properties to accurately identify interactable elements.
 
+----
+
+# TODO Q&A
+
+How can I check the CSS properties of an element using Selenium WebDriver?
+
+Can you provide an example of using the 'getRect method in Selenium WebDriver?
+
+What other CSS properties should I look for to determine if an element is being overlaid?
+
+Are there any limitations or edge cases I should be aware of when using the bounding rectangles approach?
+
+Is there a way to handle situations where an element is partially overlaid by another element?
+
+Can I customize the maximum wait time for explicit waits in Selenium?
+
+How do I handle multiple conditions using explicit waits?
+
+What other types of exceptions can be handled using explicit waits in Selenium?
+
+Can I use explicit waits to wait for an element to become clickable?
+
+How do implicit waits differ from explicit waits in Selenium?
+
+What is the purpose of the 'NoSuchElementException' in Selenium WelDriver?
+
+How does the WebDriverWait class help in handling 'NoSuchElementException'?
+
+What are some common reasons for encountering a 'NoSuchElementException' in Selenium?
+
+Can you provide an example of a scenario where a polling process is needed to handle "NoSuchElementException"?
+
+Can you explain more about dynamically locating elements in WebDriver tests?
+
+How can I handle the 'StaleElementReferenceException using a try-catch block?
+
+Are there any specific scenarios where 'StaleElementReferenceException" is more likely to occur?
+
+Are there any other strategies besides dynamically locating elements and refreshing/retrying?
+
+Can you provide an example of how to implement the refresh and retry strategy in WebDriver tests?
+
+How can I identify the root cause of an error in a stack trace?
+
+What information should I pay attention to in the exception type and message?
+
+Can you give an example of a stack trace with chained exceptions?
+
+Are there any specific patterns or keywords I should look for when analyzing the "Caused by" section?
+
+Are there any tools or techniques to make it easier to interpret and analyze a stack trace?
+
+How can I interpret the information provided in the "Caused by" section of a stack trace?
+
+Are there any specific tools or techniques that can help analyze stack traces more effectively?
+
+How can I determine if an exception is caused by an issue in my own code or in an external library or framework?
+
+What steps can I take to troubleshoot recurring stack traces for the same exception?
+
+Can you provide examples of how analyzing the class and method names mentioned in a stack trace can help identify the problematic code block?
+
+Are there any specific tools or techniques that can help with analyzing exception severity and prioritizing exceptions effectively?
+
+How can I identify common patterns among the exceptions? Are there any specific tools or strategies that can assist in this process?
+
+Can you provide more information on how to review timestamps and use them to identify common triggers or underlying issues?
+
+Are there any recommended exception tracking tools or error monitoring platforms that can help centralize and manage exceptions effectively?
+
+What are some best practices for documenting findings and solutions for each exception? Are there any tools or templates that can assist with this process?
+
+Are breakpoints only applicable to test code or can they be set in regular Python or Java code as well?
+
+Can I set conditional breakpoints that will only pause the execution if a certain condition is met?
+
+How do I resume the execution of the program after it has paused at a breakpoint?
+
+Is it possible to debug multiple threads simultaneously in PyCharm, Eclipse or Visual Studio Code?
+
+Can I debug a remote Python or Java application using Eclipse or Visual Studio Code?
+
+Is there a way to capture screenshots of specific elements on a webpage?
+
+Are there any additional dependencies or libraries required to use the 'TakesScreenshot interface?
+
+Can I capture screenshots at different stages of my test automation script, such as before and after specific actions or assertions?
+
+Can this method be used with other web browsers besides Chrome?
+
+How can I capture screenshots using Selenium WebDriver in a programming language like Python?
+
+How can I access the browser developer tools to inspect the HTML and CSS?
+
+Can you provide some examples of invalid HTML markup that can cause rendering problems?
+
+How can I determine if there are specificity conflicts causing unexpected styling?
+
+Are there any best practices or techniques for resolving CSS specificity conflicts?
+
+Are there any specific browser developer tools that are recommended for identifying these issues?
+
+How can I configure the logging module to output the log statements to a file?
+
+Are there different log levels available in the logging module? Can you provide examples of when to use each level?
+
+Is it possible to include additional information in the log statements, such as the current timestamp or the name of the method being executed?
+
+Can I customize the log format used by the logging module? For example, can I include the log level in the log statements?
+
+Are there any best practices or recommendations for using log statements within page class methods in Python?
+
+
+
+
 
 
 
